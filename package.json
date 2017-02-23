@@ -1,0 +1,13 @@
+{
+  "name": "member-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "dependencies": {
+    "json-server": "^0.9.5"
+  }
+}
